@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/0.1947457403/ARCH/delimiter=\:
+environment/project/0.1947457403/ARCH/operation=append
+environment/project/0.1947457403/ARCH/value=arm
+environment/project/0.1947457403/CROSS_COMPILE/delimiter=\:
+environment/project/0.1947457403/CROSS_COMPILE/operation=append
+environment/project/0.1947457403/CROSS_COMPILE/value=arm-linux-gnueabihf-
+environment/project/0.1947457403/append=true
+environment/project/0.1947457403/appendContributed=true
