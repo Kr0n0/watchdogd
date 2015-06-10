@@ -4,6 +4,7 @@ MAKE      := @$(MAKE)
 MAKEFLAGS  = --no-print-directory --silent
 INSTALL   := install --backup=off
 STRIPINST := $(INSTALL) -s --strip-program=$(CROSS)strip -m 0755
+CC		  := $(CROSS_COMPILE)gcc
 
 # Smart autodependecy generation via GCC -M.
 .%.d: %.c
